@@ -1,10 +1,10 @@
-https://ppenkov.atlassian.net/browse/BAI-91
+[BAI-91](file:///C:/Users/kombi/Cloning-Repository-and-Sending-Changes/MyWork/BAI-91.doc)
 
-https://ppenkov.atlassian.net/browse/BAI-90
+[BAI-90](file:///C:/Users/kombi/Cloning-Repository-and-Sending-Changes/MyWork/BAI-90.doc)
 
-https://ppenkov.atlassian.net/browse/BAI-89
+[BAI-89](file:///C:/Users/kombi/Cloning-Repository-and-Sending-Changes/MyWork/BAI-89.doc)
 
-https://ppenkov.atlassian.net/browse/BAI-83
+[BAI-83](file:///C:/Users/kombi/Cloning-Repository-and-Sending-Changes/MyWork/BAI-83.doc)
 
-https://ppenkov.atlassian.net/browse/BAI-82
+[BAI-82](file:///C:/Users/kombi/Cloning-Repository-and-Sending-Changes/MyWork/BAI-82.doc)
 
