@@ -1,5 +1,1 @@
-https://ppenkov.atlassian.net/browse/BAI-74
-https://ppenkov.atlassian.net/browse/BAI-75
-https://ppenkov.atlassian.net/browse/BAI-94
-https://ppenkov.atlassian.net/browse/BAI-95
-https://ppenkov.atlassian.net/browse/BAI-96
+C:\Users\polin\OneDrive\Desktop\QA Beetroot\Git HW\INT2_Academy\Polina\My_Work
